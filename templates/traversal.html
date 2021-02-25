@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Search Result</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ static_url("css/bootstrap.min.css") }}">
+    <script src="{{ static_url("jquery/jquery.min.js") }}"></script>
+    <script src="{{ static_url("js/bootstrap.js") }}"></script>
+    <script src="{{ static_url("js/extendPagination.js") }}"></script>
+<style type="text/css">
+/*<![CDATA[*/
+ <!--
+ body {background-color:#F0F8FF;}
+ a:link { text-decoration: none;color: black;}
+ a:active { text-decoration:blink; test:expression(target="_blank");}
+ a:hover { text-decoration:underline;color: red}
+ a:visited { text-decoration: none;color: green}
+ a.current level_1:active{ test:expression(target="_self");}
+ a.level_1:active{ test:expression(target="_self");}
+ -->
+
+/*]]>*/
+</style> 
+
+<style>
+.col-center-block {
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style> 
+<style>
+.div1{
+width:600px;
+height:50px;
+float:right;
+}
+.div2{
+width:400px;
+height:50px;
+float:right;
+}
+</style>
+
+
+</head>
+<body>
+
+<div class="next" style=" text-align:right;">
+    <form action="/logout?logout=1?path=traversal" method="post">
+    <p>状态:已登录 </p>
+    <input type="submit" style="height:35px;width:100px"  value="登  出"></br>
+    </form>
+</div>
+<caption><h1>禁用总列表</h1></caption><br/><br/>
+<div class='div1'>
+<form class="form-inline" action="/delete" method="POST">
+    <div class="col-lg-12  col-md-offset-6">
+      <div class="form-group">
+         <input type="text" name="address_del" class="form-control" placeholder="输入IP或者网段" required></input>
+         <button class="btn btn btn-primary" >删  除</button>
+      </div>
+    </div>
+</form>
+</div>
+
+<div class='div2'>
+<form class="form-inline" action="/result" method="POST">
+    <div class="col-lg-12  col-md-offset-12">
+      <div class="form-group">
+         <input type="text" name="address" class="form-control" placeholder="输入IP或者网段" required></input>
+         <button class="btn btn btn-primary">查  询</button>
+      </div>
+    </div>
+</form>
+</div>
+
+<div id="callBackPagination" class="piece">
+    <div id="mainContent"></div>
+    <div class="text-center">
+    <div id="callBackPager"></div>
+    </div>
+</div>
+
+
+</body>
+<script type="text/javascript">
+    function callBackPagination() {
+        var mycars = '{{data}}'.split(',');
+        var list = [];
+        for (x in mycars)
+        {
+            mycars[x] = mycars[x].replace('[', '').replace(']', '').replace('u','').replace('(','').replace(')','').replace(/&#39;/g,'');
+            //document.write(mycars[x] + "<br />");
+            list[x]=mycars[x];
+        }
+        var totalCount=list.length/3;
+        var limit = 10;
+        //var showCount = totalCount%limit;
+        var showCount = 3;
+        createTable(1, limit, totalCount);
+        $('#callBackPager').extendPagination({
+            totalCount: totalCount,
+            showCount: showCount,
+            limit: limit,
+            callback: function (curr, limit, totalCount) {
+                createTable(curr, limit, totalCount);
+            }
+        });
+    }    
+    function createTable(currPage, limit, total) {
+        var html = [], showNum = limit;
+        if (total - (currPage * limit) < 0) showNum = total - ((currPage - 1) * limit);
+        //html.push(' <table class="table table-hover piece" style="margin-left: 0;">');
+        html.push('<div class="text-center">');
+        html.push(' <table align="center"  class="table  table-hover  table-bordered table-condensed" style="width: 80%;"> ');
+        html.push('<thead><tr class="danger"><th>禁用IP</th><th>禁用时间</th><th>禁用开始时间</th></tr></thead><tbody>');
+        
+        var mycars = '{{data}}'.split(',');
+        var list = [];
+        
+        for (x in mycars)
+        {
+            mycars[x] = mycars[x].replace('[', '').replace(']', '').replace('u','').replace('(','').replace(')','').replace(/&#39;/g,'');
+            //document.write(mycars[x] + "<br />");
+            list[x]=mycars[x]
+        }
+        if (currPage%2==0)
+        {
+            if (showNum == 10)
+            {
+            for (var i = 1; i <= showNum; i++) {
+                starttime=(currPage-1)*14+(i-1)*3+(currPage-1);
+                banip=(currPage-1)*14+(i-1)*3+1+(currPage-1);
+                bantime=(currPage-1)*14+(i-1)*3+2+(currPage-1);
+
+                //html.push('<tr><td>' + list[starttime] + '</td>');
+                //html.push('<td>' + list[banip] + '</td>');
+                //html.push('<td>' + list[bantime] + '</td>');
+                html.push('<tr  class="active"><td><strong><h2>' + list[starttime] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[banip] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[bantime] + '</h2></strong></td>');
+                html.push('</tr>');
+                }
+            }
+            if (showNum < 10)
+            {
+            for (var i = 1; i <= showNum; i++) {
+                starttime=(currPage-1)*14+(i-1)*3+(currPage-1);
+                banip=(currPage-1)*14+(i-1)*3+1+(currPage-1);
+                bantime=(currPage-1)*14+(i-1)*3+2+(currPage-1);
+
+                //html.push('<tr><td>' + list[starttime] + '</td>');
+                //html.push('<td>' + list[banip] + '</td>');
+                //html.push('<td>' + list[bantime] + '</td>');
+                html.push('<tr  class="active"><td><strong><h2>' + list[starttime] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[banip] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[bantime] + '</h2></strong></td>');
+                html.push('</tr>');
+                }
+            }
+        }
+
+        if (currPage%2==1)
+        {
+            if (showNum == 10)
+            {
+            for (var i = 1; i <= showNum; i++) {
+                starttime=(currPage-1)*14+(i-1)*3+(currPage-1);
+                banip=(currPage-1)*14+(i-1)*3+1+(currPage-1);
+                bantime=(currPage-1)*14+(i-1)*3+2+(currPage-1);
+                //html.push('<tr><td>' + list[starttime] + '</td>');
+                //html.push('<td>' + list[banip] + '</td>');
+                //html.push('<td>' + list[bantime] + '</td>');
+                html.push('<tr  class="active"><td><strong><h2>' + list[starttime] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[banip] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[bantime] + '</h2></strong></td>');
+                html.push('</tr>');
+                }
+            }
+            if (showNum < 10)
+            {
+            for (var i = 1; i <= showNum; i++) {
+                starttime=(currPage-1)*14+(i-1)*3+(currPage-1);
+                banip=(currPage-1)*14+(i-1)*3+1+(currPage-1);
+                bantime=(currPage-1)*14+(i-1)*3+2+(currPage-1);
+
+                //html.push('<tr><td>' + list[starttime] + '</td>');
+                //html.push('<td>' + list[banip] + '</td>');
+                //html.push('<td>' + list[bantime] + '</td>');
+                html.push('<tr  class="active"><td><strong><h2>' + list[starttime] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[banip] + '</h2></strong></td>');
+                html.push('<td><strong><h2>' + list[bantime] + '</h2></strong></td>');
+                html.push('</tr>');
+                }
+            }
+        }
+        html.push('</tbody></table>');
+        html.push('</div>');
+       
+        var mainObj = $('#mainContent');
+        mainObj.empty();
+        mainObj.html(html.join(''));
+    }
+    callBackPagination()
+</script>
+</html>

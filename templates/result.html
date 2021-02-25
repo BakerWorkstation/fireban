@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>IP Search Result</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ static_url("css/bootstrap.min.css") }}">
+
+<style type="text/css">
+/*<![CDATA[*/
+ <!--
+ body {background-color:#F0F8FF;}
+ a:link { text-decoration: none;color: black;}
+ a:active { text-decoration:blink; test:expression(target="_blank");}
+ a:hover { text-decoration:underline;color: red}
+ a:visited { text-decoration: none;color: green}
+ a.current level_1:active{ test:expression(target="_self");}
+ a.level_1:active{ test:expression(target="_self");}
+ -->
+
+/*]]>*/
+</style> 
+
+<style>  
+.col-center-block {  
+    float: none;  
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+}  
+</style> 
+
+</head>
+<body>
+<caption><h1>查询结果</h1></caption><br/><br/>
+
+
+<table class="table    table-hover  table-bordered table-condensed">
+   <thead>
+      <tr class="info">
+         <th>禁用开始时间</th>
+         <th>禁用IP</th>
+         <th>禁用时间</th>
+         <th>禁用原因</th>
+      </tr>
+   </thead>
+   <tbody>
+      {% for a in list_info %}
+          <tr  class="success">
+          {% for x in a %}
+              <td><strong><h2> {{escape(x)}}</h2></strong></td>
+          {% end %}
+      {% end %}
+      </tr>
+   </tbody>
+</table>
+<hr>
+</body>
+</html>

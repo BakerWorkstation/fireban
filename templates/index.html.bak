@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>add rule system</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <!-- Bootstrap 
+  <link rel="stylesheet" href="{{ static_url("css/bootstrap.min.css") }}">
+  <script src="{{ static_url("jquery/jquery.min.js") }}"></script>
+  <script src="{{ static_url("js/bootstrap.min.js") }}"></script>
+  -->
+   <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+   <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+   <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+/*<![CDATA[*/
+ <!--
+ body {background-color:#F0F8FF;}
+ a:link { text-decoration: none;color: black;}
+ a:active { text-decoration:blink; test:expression(target="_blank");}
+ a:hover { text-decoration:underline;color: red}
+ a:visited { text-decoration: none;color: green}
+ a.current level_1:active{ test:expression(target="_self");}
+ a.level_1:active{ test:expression(target="_self");}
+ -->
+
+/*]]>*/
+</style> 
+
+  <style type="text/css">  
+        #bg {  
+            position:fixed;   
+            top:0;   
+            left:0;   
+            width:100%;   
+            height:90%;  
+        }  
+      
+        #bg img {  
+            position:absolute;   
+            left:0;   
+            right:0;   
+            bottom:0;   
+            margin:auto;   
+            width:100%;  
+            height:90%;  
+            z-index:-1;  
+        }  
+        </style>
+</head>
+<body>
+
+<div class="next" style=" text-align:right;">
+    <form action="/logout?logout=1?path=index" method="post">
+    <p>状态:已登录 </p>
+    <input type="submit" style="height:35px;width:100px"  value="登  出"></br>
+    </form>
+</div>
+
+
+    <div class="thumbnail">
+      <img src="{{ static_url("images/back_main.png") }}"  class="img-responsive" alt="Cinque Terre" width="2000" height="700">  
+    </div> 
+    <div class="caption">
+      <h1><a>添加规则</a></h1>
+    </div>
+
+    <div class="container">
+    <!--    <div class="col-lg-45  col-md-offset-3"> -->
+         <form class="form-signin" role="form"  action="/append" method="POST">
+            <div class="center-block" style="width:400px;">
+                <div class="input-group input-group-lg">
+                     <input type="text" id="ip"  class="form-control" style="height:60px;width:400px" name="address"  placeholder="禁用的IP或者网段"  autofocus><br/><br/><br/>
+                     <input type="text" id="time"  class="form-control" style="height:60px;width:400px" name="time"  placeholder="禁用的时间(s:秒, m:分, h:小时 不区分大小写)"  autofocus><br/><br/><br/>
+                     <input type="text" id="reason" class="form-control" style="height:60px;width:400px" name="reason"  placeholder="禁用原因"  autofocus><br/><br/><br/>
+
+                </div>
+                <div class="center-block" style="width:230px;" >
+                     <button class="btn btn-lg btn-primary btn-block  popover-hide" 
+                             data-container="body"  
+                             style="height:60px;width:200px"  
+                             data-toggle="popover" 
+                             data-placement="top"
+                             data-content="立 即 添 加" 
+                             onclick="add()"
+                             type="submit"  >立  即  添  加</button>
+                </div>
+        </form>
+    </div>
+                            
+    </div>
+  </body>
+<script type="text/javascript">
+    function add(){
+        var ip=document.getElementById("ip").value;
+        var time=document.getElementById("time").value;
+        var reason=document.getElementById("reason").value;
+
+        var a=(ip.length!=0)||(time.length!=0)
+        var b=a||(reason.length!=0)
+        
+        if (b){
+            alert("已提交申请");
+               /*   $('button').popover();
+                  setTimeout(function(){$('button').popover('hide');},3000); */
+            }
+    }
+
+</script>
+
+</html>

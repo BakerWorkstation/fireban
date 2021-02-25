@@ -1,0 +1,1141 @@
+2016-07-15 13:35:49,051    INFO    tornado.access    200 POST /action (10.255.41.40) 6.73ms
+2016-07-15 13:36:33,407    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:36:33,407    ERROR    STDERR      File "web_server.py", line 99, in <module>
+2016-07-15 13:36:33,407    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:36:33,407    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:36:33,408    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:36:33,409    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:38:47,809    INFO    tornado.access    200 POST /action (10.255.41.40) 11.69ms
+2016-07-15 13:40:16,449    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:40:16,449    ERROR    STDERR      File "web_server.py", line 99, in <module>
+2016-07-15 13:40:16,450    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:40:16,450    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:40:16,450    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:40:16,450    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:43:20,689    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:43:20,689    ERROR    STDERR      File "web_server.py", line 99, in <module>
+2016-07-15 13:43:20,689    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:43:20,689    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:43:20,690    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:43:20,690    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:48:47,999    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:48:47,999    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 13:48:47,999    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:48:47,999    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:48:48,000    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:48:48,000    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:53:19,412    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:53:19,412    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 13:53:19,412    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:53:19,412    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:53:19,412    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:53:19,412    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:55:32,732    INFO    tornado.access    200 POST /action (10.255.41.40) 13.24ms
+2016-07-15 13:56:08,113    INFO    tornado.access    304 GET /search (10.255.41.40) 1.76ms
+2016-07-15 13:56:09,557    INFO    tornado.access    200 POST /result (10.255.41.40) 2.30ms
+2016-07-15 13:56:16,241    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:56:16,241    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 13:56:16,241    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:56:16,241    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:56:16,242    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:56:16,242    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:57:49,969    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:57:49,969    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 13:57:49,969    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:57:49,969    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:57:49,969    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:57:49,969    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 13:59:15,403    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 13:59:15,403    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 13:59:15,403    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 13:59:15,404    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 13:59:15,404    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 13:59:15,404    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:00:38,061    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:00:38,061    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:00:38,061    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:00:38,061    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:00:38,061    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:00:38,061    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:01:54,443    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:01:54,443    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:01:54,454    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:01:54,454    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:01:54,455    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:01:54,455    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:03:10,343    INFO    tornado.access    200 POST /action (10.255.41.40) 9.16ms
+2016-07-15 14:03:43,190    INFO    tornado.access    200 POST /action (10.255.41.40) 4.83ms
+2016-07-15 14:03:53,343    INFO    tornado.access    304 GET / (10.255.41.40) 1.95ms
+2016-07-15 14:04:04,865    INFO    tornado.access    304 GET /search (10.255.41.40) 1.10ms
+2016-07-15 14:06:51,731    INFO    tornado.access    200 POST /action (10.255.41.40) 5.25ms
+2016-07-15 14:08:01,010    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:08:01,010    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:08:01,010    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:08:01,010    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:08:01,011    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:08:01,015    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:08:17,829    INFO    tornado.access    200 POST /action (10.255.41.40) 7.84ms
+2016-07-15 14:08:38,119    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:08:38,119    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:08:38,119    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:08:38,119    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:08:38,119    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:08:38,123    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:08:49,821    INFO    tornado.access    304 GET / (10.255.41.40) 5.92ms
+2016-07-15 14:10:40,650    INFO    tornado.access    200 POST /result (10.255.41.40) 1.85ms
+2016-07-15 14:11:01,352    INFO    tornado.access    200 POST /action (10.255.41.40) 11.13ms
+2016-07-15 14:11:09,892    INFO    tornado.access    200 POST /result (10.255.41.40) 1.42ms
+2016-07-15 14:11:18,485    INFO    tornado.access    200 POST /result (10.255.41.40) 1.10ms
+2016-07-15 14:11:31,486    INFO    tornado.access    200 POST /result (10.255.41.40) 0.86ms
+2016-07-15 14:13:15,498    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:13:15,498    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:13:15,498    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:13:15,498    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:13:15,499    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:13:15,499    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:17:54,584    INFO    tornado.access    200 POST /action (10.255.41.40) 16.97ms
+2016-07-15 14:17:58,721    INFO    tornado.access    200 POST /result (10.255.41.40) 2.21ms
+2016-07-15 14:18:27,253    INFO    tornado.access    200 POST /action (10.255.41.40) 0.90ms
+2016-07-15 14:19:55,042    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:19:55,043    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:19:55,043    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:19:55,043    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:19:55,043    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:19:55,049    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:20:43,359    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:20:43,359    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:20:43,359    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:20:43,359    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:20:43,360    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:20:43,360    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:22:24,178    INFO    tornado.access    200 POST /action (10.255.41.40) 8.48ms
+2016-07-15 14:22:27,044    INFO    tornado.access    200 POST /result (10.255.41.40) 8.15ms
+2016-07-15 14:22:50,508    INFO    tornado.access    200 POST /result (10.255.41.40) 1.23ms
+2016-07-15 14:39:25,731    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:39:25,731    ERROR    STDERR      File "./web_server.py", line 99, in <module>
+2016-07-15 14:39:25,731    ERROR    STDERR    <!DOCTYPE html>
+2016-07-15 14:39:25,731    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:39:25,731    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:39:25,731    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:40:12,606    WARNING    tornado.access    405 GET /traversal (10.255.41.40) 5.12ms
+2016-07-15 14:40:52,754    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:40:52,754    ERROR    STDERR      File "./web_server.py", line 119, in <module>
+2016-07-15 14:40:52,754    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:40:52,754    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:40:52,754    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:40:52,754    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:41:04,541    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.14ms
+2016-07-15 14:41:19,187    INFO    tornado.access    304 GET /traversal (10.255.41.40) 0.78ms
+2016-07-15 14:47:38,720    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:47:38,720    ERROR    STDERR      File "web_server.py", line 121, in <module>
+2016-07-15 14:47:38,720    ERROR    STDERR    http_server.listen(options.port)
+2016-07-15 14:47:38,723    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/tcpserver.py", line 126, in listen
+2016-07-15 14:47:38,742    ERROR    STDERR    sockets = bind_sockets(port, address=address)
+2016-07-15 14:47:38,742    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/netutil.py", line 187, in bind_sockets
+2016-07-15 14:47:38,750    ERROR    STDERR    sock.bind(sockaddr)
+2016-07-15 14:47:38,751    ERROR    STDERR      File "/usr/local/lib/python2.7/socket.py", line 224, in meth
+2016-07-15 14:47:38,751    ERROR    STDERR    return getattr(self._sock,name)(*args)
+2016-07-15 14:47:38,751    ERROR    STDERR    socket
+2016-07-15 14:47:38,751    ERROR    STDERR    .
+2016-07-15 14:47:38,751    ERROR    STDERR    error
+2016-07-15 14:47:38,751    ERROR    STDERR    :
+2016-07-15 14:47:38,751    ERROR    STDERR    [Errno 98] Address already in use
+2016-07-15 14:48:04,544    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:48:04,548    ERROR    STDERR      File "web_server.py", line 121, in <module>
+2016-07-15 14:48:04,548    ERROR    STDERR    http_server.listen(options.port)
+2016-07-15 14:48:04,548    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/tcpserver.py", line 126, in listen
+2016-07-15 14:48:04,548    ERROR    STDERR    sockets = bind_sockets(port, address=address)
+2016-07-15 14:48:04,548    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/netutil.py", line 187, in bind_sockets
+2016-07-15 14:48:04,548    ERROR    STDERR    sock.bind(sockaddr)
+2016-07-15 14:48:04,548    ERROR    STDERR      File "/usr/local/lib/python2.7/socket.py", line 224, in meth
+2016-07-15 14:48:04,548    ERROR    STDERR    return getattr(self._sock,name)(*args)
+2016-07-15 14:48:04,548    ERROR    STDERR    socket
+2016-07-15 14:48:04,548    ERROR    STDERR    .
+2016-07-15 14:48:04,548    ERROR    STDERR    error
+2016-07-15 14:48:04,548    ERROR    STDERR    :
+2016-07-15 14:48:04,548    ERROR    STDERR    [Errno 98] Address already in use
+2016-07-15 14:48:22,619    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:48:22,619    ERROR    STDERR      File "web_server.py", line 121, in <module>
+2016-07-15 14:48:22,619    ERROR    STDERR    http_server.listen(options.port)
+2016-07-15 14:48:22,619    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/tcpserver.py", line 126, in listen
+2016-07-15 14:48:22,623    ERROR    STDERR    sockets = bind_sockets(port, address=address)
+2016-07-15 14:48:22,623    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/netutil.py", line 187, in bind_sockets
+2016-07-15 14:48:22,623    ERROR    STDERR    sock.bind(sockaddr)
+2016-07-15 14:48:22,623    ERROR    STDERR      File "/usr/local/lib/python2.7/socket.py", line 224, in meth
+2016-07-15 14:48:22,623    ERROR    STDERR    return getattr(self._sock,name)(*args)
+2016-07-15 14:48:22,623    ERROR    STDERR    socket
+2016-07-15 14:48:22,623    ERROR    STDERR    .
+2016-07-15 14:48:22,623    ERROR    STDERR    error
+2016-07-15 14:48:22,623    ERROR    STDERR    :
+2016-07-15 14:48:22,623    ERROR    STDERR    [Errno 98] Address already in use
+2016-07-15 14:48:25,963    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:48:25,963    ERROR    STDERR      File "./web_server.py", line 119, in <module>
+2016-07-15 14:48:25,963    ERROR    STDERR    )
+2016-07-15 14:48:25,964    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:48:25,964    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:48:25,964    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:48:33,155    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:48:33,156    ERROR    STDERR      File "web_server.py", line 122, in <module>
+2016-07-15 14:48:33,156    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:48:33,156    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:48:33,156    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:48:33,156    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:48:39,326    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.05ms
+2016-07-15 14:48:48,325    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:48:48,325    ERROR    STDERR      File "web_server.py", line 122, in <module>
+2016-07-15 14:48:48,325    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:48:48,325    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:48:48,325    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:48:48,326    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:49:16,005    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.44ms
+2016-07-15 14:51:27,362    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:51:27,362    ERROR    STDERR      File "./web_server.py", line 122, in <module>
+2016-07-15 14:51:27,362    ERROR    STDERR    http_server.listen(options.port)
+2016-07-15 14:51:27,362    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:51:27,362    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:51:27,362    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:52:00,433    INFO    tornado.access    304 GET /search (10.255.41.40) 5.72ms
+2016-07-15 14:52:02,074    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.01ms
+2016-07-15 14:54:04,274    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:54:04,274    ERROR    STDERR      File "./web_server.py", line 123, in <module>
+2016-07-15 14:54:04,274    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:54:04,274    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:54:04,274    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:54:04,274    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:54:18,898    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'If-None-Match': '"a9b41a2539ebce37801a6714ad4dbaf8a78fca30"', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "./web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "./web_server.py", line 109, in sleep
+    self.write(line[0] + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + line[1] + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + line[2]  + '<br>')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2016-07-15 14:54:18,903    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 6.61ms
+2016-07-15 14:54:35,320    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "./web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "./web_server.py", line 109, in sleep
+    self.write(line[0] + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + line[1] + '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;' + line[2]  + '<br>')
+TypeError: unsupported operand type(s) for +: 'int' and 'str'
+2016-07-15 14:54:35,320    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 1.22ms
+2016-07-15 14:55:52,146    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:55:52,146    ERROR    STDERR      File "./web_server.py", line 123, in <module>
+2016-07-15 14:55:52,146    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:55:52,146    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:55:52,146    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:55:52,146    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:56:05,391    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.21ms
+2016-07-15 14:56:11,111    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:56:11,111    ERROR    STDERR      File "web_server.py", line 123, in <module>
+2016-07-15 14:56:11,111    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:56:11,112    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:56:11,112    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:56:11,112    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:58:05,111    INFO    STDOUT    [(5, u'192.16.13.4', u'150s'), (7, u'10.3.5.6', u'100s'), (8, u'127.0.1.2', u'20s'), (9, u'172.6.1.3', u'6s'), (10, u'192.168.1.123', u'15s'), (11, u'172.168.1.123', u'1m'), (12, u'1.1.1.1', u'1M')]
+2016-07-15 14:58:05,112    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.37ms
+2016-07-15 14:58:09,085    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 14:58:09,085    ERROR    STDERR      File "web_server.py", line 124, in <module>
+2016-07-15 14:58:09,085    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 14:58:09,085    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 14:58:09,085    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 14:58:09,085    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 14:59:39,923    INFO    STDOUT    [(1, u'127.0.1.2', u'20s'), (2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (5, u'192.168.1.123', u'15s'), (6, u'172.6.1.3', u'6s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 14:59:39,929    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.76ms
+2016-07-15 14:59:56,964    INFO    STDOUT    [(1, u'127.0.1.2', u'20s'), (2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 14:59:56,969    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.37ms
+2016-07-15 14:59:57,681    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 14:59:57,682    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.40ms
+2016-07-15 14:59:58,616    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 14:59:58,616    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.19ms
+2016-07-15 14:59:59,360    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 14:59:59,360    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.08ms
+2016-07-15 15:00:00,081    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:00,082    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:00:00,832    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:00,832    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.13ms
+2016-07-15 15:00:01,648    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:01,648    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.09ms
+2016-07-15 15:00:02,432    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:02,433    INFO    tornado.access    304 GET /traversal (10.255.41.40) 2.14ms
+2016-07-15 15:00:03,351    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:03,352    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.08ms
+2016-07-15 15:00:04,072    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:04,073    INFO    tornado.access    304 GET /traversal (10.255.41.40) 2.08ms
+2016-07-15 15:00:05,114    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:05,114    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.09ms
+2016-07-15 15:00:07,569    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:07,570    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.08ms
+2016-07-15 15:00:08,449    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:08,450    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.08ms
+2016-07-15 15:00:09,328    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:09,332    INFO    tornado.access    304 GET /traversal (10.255.41.40) 4.77ms
+2016-07-15 15:00:10,447    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:10,448    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.19ms
+2016-07-15 15:00:11,559    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:11,560    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.56ms
+2016-07-15 15:00:16,466    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:16,467    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.97ms
+2016-07-15 15:00:17,384    INFO    STDOUT    [(2, u'1.1.1.1', u'1M'), (3, u'10.3.5.6', u'100s'), (4, u'192.16.13.4', u'150s'), (7, u'172.168.1.123', u'1m')]
+2016-07-15 15:00:17,384    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.09ms
+2016-07-15 15:01:37,165    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:01:37,165    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:01:37,165    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:01:37,165    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:01:37,165    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:01:37,165    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:01:50,706    INFO    STDOUT    [(1, u'127.0.1.2', u'20s'), (2, u'192.168.1.123', u'15s'), (3, u'172.168.1.123', u'1m'), (4, u'10.3.5.6', u'100s'), (5, u'1.1.1.1', u'1M'), (6, u'192.16.13.4', u'150s'), (7, u'172.6.1.3', u'6s')]
+2016-07-15 15:01:50,710    INFO    tornado.access    200 GET /traversal (10.255.41.40) 4.44ms
+2016-07-15 15:03:38,774    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:03:38,774    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:03:38,774    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:03:38,774    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:03:38,774    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:03:38,774    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:03:46,489    INFO    STDOUT    [(6, u'192.16.13.4', u'150s'), (8, u'127.0.1.2', u'20s'), (9, u'1.1.1.1', u'1M'), (10, u'172.6.1.3', u'6s'), (11, u'10.3.5.6', u'100s'), (12, u'192.168.1.123', u'15s'), (13, u'172.168.1.123', u'1m')]
+2016-07-15 15:03:46,494    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.68ms
+2016-07-15 15:05:21,713    INFO    STDOUT    [(6, u'192.16.13.4', u'150s'), (11, u'10.3.5.6', u'100s')]
+2016-07-15 15:05:21,714    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.51ms
+2016-07-15 15:05:30,539    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:30,540    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.45ms
+2016-07-15 15:05:32,954    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:32,967    INFO    tornado.access    304 GET /traversal (10.255.41.40) 13.82ms
+2016-07-15 15:05:35,170    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:35,171    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.33ms
+2016-07-15 15:05:37,424    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:37,441    INFO    tornado.access    304 GET /traversal (10.255.41.40) 18.02ms
+2016-07-15 15:05:45,899    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:45,900    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.27ms
+2016-07-15 15:05:48,468    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:48,469    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.58ms
+2016-07-15 15:05:50,551    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:05:50,552    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.20ms
+2016-07-15 15:06:06,841    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:06:06,842    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.22ms
+2016-07-15 15:06:08,107    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:06:08,108    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.96ms
+2016-07-15 15:06:12,883    INFO    STDOUT    [(6, u'192.16.13.4', u'150s')]
+2016-07-15 15:06:12,884    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.47ms
+2016-07-15 15:07:22,074    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:07:22,074    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:07:22,074    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:07:22,074    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:07:22,077    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:07:22,078    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:07:27,777    INFO    STDOUT    [(14, u'172.6.1.3', u'6s'), (15, u'172.168.1.123', u'1m'), (16, u'1.1.1.1', u'1M'), (17, u'192.168.1.123', u'15s'), (18, u'127.0.1.2', u'20s'), (19, u'10.3.5.6', u'100s'), (20, u'192.16.13.4', u'150s')]
+2016-07-15 15:07:27,782    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.23ms
+2016-07-15 15:09:52,720    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:09:52,720    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:09:52,720    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:09:52,720    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:09:52,721    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:09:52,721    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:10:07,628    INFO    STDOUT    [(21, u'127.0.1.2', u'20s'), (22, u'10.3.5.6', u'100s'), (23, u'192.168.1.123', u'15s'), (24, u'172.168.1.123', u'1m'), (25, u'1.1.1.1', u'1M'), (26, u'172.6.1.3', u'6s'), (27, u'192.16.13.4', u'150s')]
+2016-07-15 15:10:07,629    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.91ms
+2016-07-15 15:14:11,215    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:14:11,215    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:14:11,215    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:14:11,216    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:14:11,216    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:14:11,216    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:14:15,847    INFO    STDOUT    [(28, u'127.0.1.2', u'20s'), (29, u'192.168.1.123', u'15s'), (30, u'10.3.5.6', u'100s'), (31, u'192.16.13.4', u'150s'), (32, u'172.6.1.3', u'6s'), (33, u'172.168.1.123', u'1m'), (34, u'1.1.1.1', u'1M')]
+2016-07-15 15:14:15,852    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.09ms
+2016-07-15 15:26:52,420    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:26:52,420    ERROR    STDERR      File "./web_server.py", line 124, in <module>
+2016-07-15 15:26:52,421    ERROR    STDERR    http_server.listen(options.port)
+2016-07-15 15:26:52,421    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:26:52,424    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:26:52,425    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:26:57,829    INFO    STDOUT    [(35, u'127.0.1.2', u'20s'), (36, u'192.168.1.123', u'15s'), (37, u'172.168.1.123', u'1m'), (38, u'172.6.1.3', u'6s'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s')]
+2016-07-15 15:26:57,835    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.87ms
+2016-07-15 15:27:41,379    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:27:41,379    ERROR    STDERR      File "./web_server.py", line 125, in <module>
+2016-07-15 15:27:41,379    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:27:41,379    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:27:41,379    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:27:41,379    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:27:46,002    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (42, u'127.0.1.2', u'20s'), (43, u'192.168.1.123', u'15s'), (44, u'172.6.1.3', u'6s')]
+2016-07-15 15:27:46,007    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.01ms
+2016-07-15 15:28:13,271    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:28:13,271    ERROR    STDERR      File "./web_server.py", line 125, in <module>
+2016-07-15 15:28:13,271    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:28:13,271    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:28:13,271    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:28:13,271    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:28:18,222    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (45, u'127.0.1.2', u'20s'), (46, u'192.168.1.123', u'15s'), (47, u'172.6.1.3', u'6s')]
+2016-07-15 15:28:18,226    INFO    tornado.access    200 GET /traversal (10.255.41.40) 4.71ms
+2016-07-15 15:28:19,436    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (45, u'127.0.1.2', u'20s'), (46, u'192.168.1.123', u'15s'), (47, u'172.6.1.3', u'6s')]
+2016-07-15 15:28:19,437    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.37ms
+2016-07-15 15:28:22,911    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:28:22,911    ERROR    STDERR      File "./web_server.py", line 125, in <module>
+2016-07-15 15:28:22,911    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:28:22,911    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:28:22,911    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:28:22,911    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:28:45,958    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (50, u'172.6.1.3', u'6s')]
+2016-07-15 15:28:45,960    INFO    tornado.access    200 GET /traversal (10.255.41.40) 7.10ms
+2016-07-15 15:28:47,019    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (50, u'172.6.1.3', u'6s')]
+2016-07-15 15:28:47,019    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.22ms
+2016-07-15 15:28:49,602    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:28:49,602    ERROR    STDERR      File "./web_server.py", line 125, in <module>
+2016-07-15 15:28:49,602    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:28:49,602    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:28:49,602    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:28:49,603    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:30:05,846    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:05,852    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.69ms
+2016-07-15 15:30:06,857    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:06,858    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.21ms
+2016-07-15 15:30:07,313    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:07,318    INFO    tornado.access    304 GET /traversal (10.255.41.40) 6.41ms
+2016-07-15 15:30:07,793    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:07,793    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.07ms
+2016-07-15 15:30:08,164    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:08,165    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.06ms
+2016-07-15 15:30:08,498    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:08,499    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.07ms
+2016-07-15 15:30:08,809    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:08,810    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.08ms
+2016-07-15 15:30:09,111    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:09,112    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.05ms
+2016-07-15 15:30:09,427    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:09,428    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:30:09,698    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:09,699    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.25ms
+2016-07-15 15:30:09,979    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:09,979    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:30:10,278    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s'), (51, u'172.6.1.3', u'6s')]
+2016-07-15 15:30:10,279    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:30:10,747    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s')]
+2016-07-15 15:30:10,747    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:30:11,117    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s')]
+2016-07-15 15:30:11,118    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.14ms
+2016-07-15 15:30:11,498    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s')]
+2016-07-15 15:30:11,498    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.13ms
+2016-07-15 15:30:11,963    INFO    STDOUT    [(37, u'172.168.1.123', u'1m'), (39, u'10.3.5.6', u'100s'), (40, u'1.1.1.1', u'1M'), (41, u'192.16.13.4', u'150s'), (48, u'127.0.1.2', u'20s'), (49, u'192.168.1.123', u'15s')]
+2016-07-15 15:30:11,964    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 15:32:56,924    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:32:56,924    ERROR    STDERR      File "./web_server.py", line 126, in <module>
+2016-07-15 15:32:56,924    ERROR    STDERR    http_server = tornado.httpserver.HTTPServer(app)
+2016-07-15 15:32:56,924    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:32:56,924    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:32:56,924    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:33:02,431    INFO    STDOUT    [(52, u'127.0.1.2', u'20s'), (53, u'172.168.1.123', u'1m'), (54, u'192.168.1.123', u'15s'), (55, u'172.6.1.3', u'6s'), (56, u'192.16.13.4', u'150s'), (57, u'1.1.1.1', u'1M'), (58, u'10.3.5.6', u'100s')]
+2016-07-15 15:33:02,432    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'If-None-Match': '"bfa9e21ba83493dffbd824e29b10359847bcd8ba"', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "./web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "./web_server.py", line 112, in sleep
+    self.write('<div style="left: 300px; position: absolute; top: %dpx;">%s</div><br><br>' % (line[2], 50*i))
+TypeError: %d format: a number is required, not unicode
+2016-07-15 15:33:02,438    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 7.61ms
+2016-07-15 15:33:08,311    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:33:08,311    ERROR    STDERR      File "./web_server.py", line 128, in <module>
+2016-07-15 15:33:08,311    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:33:08,311    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:33:08,311    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:33:08,312    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:33:36,322    INFO    STDOUT    [(53, u'172.168.1.123', u'1m'), (56, u'192.16.13.4', u'150s'), (57, u'1.1.1.1', u'1M'), (58, u'10.3.5.6', u'100s'), (59, u'127.0.1.2', u'20s'), (60, u'192.168.1.123', u'15s'), (61, u'172.6.1.3', u'6s')]
+2016-07-15 15:33:36,328    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.24ms
+2016-07-15 15:34:37,761    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:34:37,761    ERROR    STDERR      File "./web_server.py", line 128, in <module>
+2016-07-15 15:34:37,761    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:34:37,761    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:34:37,762    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:34:37,762    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:34:41,797    INFO    STDOUT    [(56, u'192.16.13.4', u'150s'), (58, u'10.3.5.6', u'100s'), (62, u'127.0.1.2', u'20s'), (63, u'172.168.1.123', u'1m'), (64, u'172.6.1.3', u'6s'), (65, u'192.168.1.123', u'15s'), (66, u'1.1.1.1', u'1M')]
+2016-07-15 15:34:41,804    INFO    tornado.access    200 GET /traversal (10.255.41.40) 7.85ms
+2016-07-15 15:34:50,423    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:34:50,423    ERROR    STDERR      File "./web_server.py", line 128, in <module>
+2016-07-15 15:34:50,423    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:34:50,423    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:34:50,423    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:34:50,423    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:35:19,389    INFO    STDOUT    [(56, u'192.16.13.4', u'150s'), (58, u'10.3.5.6', u'100s'), (63, u'172.168.1.123', u'1m'), (66, u'1.1.1.1', u'1M'), (67, u'127.0.1.2', u'20s'), (68, u'192.168.1.123', u'15s'), (69, u'172.6.1.3', u'6s')]
+2016-07-15 15:35:19,394    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.10ms
+2016-07-15 15:35:36,827    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:35:36,827    ERROR    STDERR      File "./web_server.py", line 128, in <module>
+2016-07-15 15:35:36,827    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:35:36,827    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:35:36,827    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:35:36,828    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:37:51,848    INFO    STDOUT    [(70, u'127.0.1.2', u'20s'), (71, u'172.6.1.3', u'6s'), (72, u'10.3.5.6', u'100s'), (73, u'192.16.13.4', u'150s'), (74, u'172.168.1.123', u'1m'), (75, u'192.168.1.123', u'15s'), (76, u'1.1.1.1', u'1M')]
+2016-07-15 15:37:51,853    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.63ms
+2016-07-15 15:39:29,249    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:39:29,249    ERROR    STDERR      File "./web_server.py", line 132, in <module>
+2016-07-15 15:39:29,249    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:39:29,249    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:39:29,249    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:39:29,249    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:39:34,103    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (79, u'172.6.1.3', u'6s'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:39:34,108    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.03ms
+2016-07-15 15:39:51,952    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s'), (83, u'172.6.1.3', u'6s')]
+2016-07-15 15:39:51,954    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.59ms
+2016-07-15 15:39:53,183    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s'), (83, u'172.6.1.3', u'6s')]
+2016-07-15 15:39:53,183    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.19ms
+2016-07-15 15:39:54,165    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s'), (83, u'172.6.1.3', u'6s')]
+2016-07-15 15:39:54,166    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.23ms
+2016-07-15 15:39:54,870    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s'), (83, u'172.6.1.3', u'6s')]
+2016-07-15 15:39:54,870    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.26ms
+2016-07-15 15:39:55,902    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:39:55,903    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.36ms
+2016-07-15 15:39:57,144    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:39:57,149    INFO    tornado.access    304 GET /traversal (10.255.41.40) 5.28ms
+2016-07-15 15:39:58,053    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:39:58,054    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.13ms
+2016-07-15 15:39:58,790    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:39:58,791    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.16ms
+2016-07-15 15:40:00,240    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:40:00,241    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.21ms
+2016-07-15 15:40:01,262    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:40:01,263    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.20ms
+2016-07-15 15:40:02,542    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:40:02,542    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.25ms
+2016-07-15 15:40:03,671    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M'), (82, u'192.168.1.123', u'15s')]
+2016-07-15 15:40:03,672    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.27ms
+2016-07-15 15:40:04,833    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M')]
+2016-07-15 15:40:04,834    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.30ms
+2016-07-15 15:40:05,649    INFO    STDOUT    [(73, u'192.16.13.4', u'150s'), (77, u'127.0.1.2', u'20s'), (78, u'172.168.1.123', u'1m'), (80, u'10.3.5.6', u'100s'), (81, u'1.1.1.1', u'1M')]
+2016-07-15 15:40:05,650    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.21ms
+2016-07-15 15:40:37,316    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:40:37,316    ERROR    STDERR      File "./web_server.py", line 132, in <module>
+2016-07-15 15:40:37,316    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:40:37,316    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:40:37,316    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:40:43,383    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'10.3.5.6', u'100s'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'172.6.1.3', u'6s'), (u'192.168.1.123', u'15s')]
+2016-07-15 15:40:43,383    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'If-None-Match': '"df16b9a0e2db34f643993e28c24c671514ea2126"', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "./web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "./web_server.py", line 114, in sleep
+    self.write('<div style="left: 500px; position: absolute; top: %dpx;">%s</div><br><br>' % (150*i, line[2]))
+IndexError: tuple index out of range
+2016-07-15 15:40:43,393    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 11.71ms
+2016-07-15 15:40:48,074    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:40:48,074    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:40:48,074    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:40:48,074    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:40:48,074    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:40:48,074    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:41:03,141    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'10.3.5.6', u'100s'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'192.168.1.123', u'15s'), (u'172.6.1.3', u'6s')]
+2016-07-15 15:41:03,146    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.76ms
+2016-07-15 15:41:42,395    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:41:42,395    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:41:42,395    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:41:42,395    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:41:42,395    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:41:42,395    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:42:08,610    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'127.0.1.2', u'20s'), (u'172.6.1.3', u'6s'), (u'1.1.1.1', u'1M'), (u'192.168.1.123', u'15s'), (u'172.168.1.123', u'1m')]
+2016-07-15 15:42:08,614    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.47ms
+2016-07-15 15:42:26,066    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:42:26,066    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:42:26,066    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:42:26,066    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:42:26,067    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:42:26,069    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:42:32,155    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'1.1.1.1', u'1M'), (u'172.168.1.123', u'1m'), (u'172.6.1.3', u'6s'), (u'192.168.1.123', u'15s'), (u'127.0.1.2', u'20s')]
+2016-07-15 15:42:32,160    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.46ms
+2016-07-15 15:43:32,821    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:43:32,821    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:43:32,821    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:43:32,821    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:43:32,821    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:43:32,821    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:43:36,763    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'172.6.1.3', u'6s'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'192.168.1.123', u'15s'), (u'172.168.1.123', u'1m')]
+2016-07-15 15:43:36,774    INFO    tornado.access    200 GET /traversal (10.255.41.40) 11.15ms
+2016-07-15 15:43:52,249    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:43:52,249    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:43:52,250    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:43:52,250    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:43:52,250    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:43:52,250    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:44:50,119    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'127.0.1.2', u'20s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'172.6.1.3', u'6s'), (u'192.168.1.123', u'15s')]
+2016-07-15 15:44:50,123    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.36ms
+2016-07-15 15:45:09,444    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:45:09,444    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:45:09,444    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:45:09,444    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:45:09,445    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:45:09,445    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:45:27,557    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'192.168.1.123', u'15s'), (u'172.6.1.3', u'6s')]
+2016-07-15 15:45:27,564    INFO    tornado.access    200 GET /traversal (10.255.41.40) 7.73ms
+2016-07-15 15:45:33,898    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:45:33,898    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:45:33,898    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:45:33,901    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:45:33,901    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:45:33,902    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:45:44,358    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'172.6.1.3', u'6s'), (u'192.168.1.123', u'15s')]
+2016-07-15 15:45:44,363    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.58ms
+2016-07-15 15:46:07,252    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:46:07,253    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:46:07,253    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:46:07,253    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:46:07,253    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:46:07,253    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:46:52,588    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'127.0.1.2', u'20s'), (u'172.168.1.123', u'1m'), (u'172.6.1.3', u'6s'), (u'1.1.1.1', u'1M'), (u'192.168.1.123', u'15s')]
+2016-07-15 15:46:52,589    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.74ms
+2016-07-15 15:47:04,942    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:47:04,942    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:47:04,942    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:47:04,942    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:47:04,942    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:47:04,942    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:47:25,650    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'127.0.1.2', u'20s'), (u'192.168.1.123', u'15s'), (u'172.6.1.3', u'6s')]
+2016-07-15 15:47:25,652    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.10ms
+2016-07-15 15:48:04,653    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:48:04,653    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:48:04,653    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:48:04,653    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:48:04,653    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:48:04,653    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:49:37,874    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'127.0.1.2', u'20s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'192.168.1.123', u'15s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M')]
+2016-07-15 15:49:37,879    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.26ms
+2016-07-15 15:49:54,470    INFO    tornado.access    200 POST /result (10.255.41.40) 7.50ms
+2016-07-15 15:53:38,491    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:53:38,491    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:53:38,491    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:53:38,492    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:53:38,492    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:53:38,492    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:53:43,900    INFO    tornado.access    200 GET /search (10.255.41.40) 6.04ms
+2016-07-15 15:54:24,114    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:54:24,114    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:54:24,114    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:54:24,114    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:54:24,115    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:54:24,115    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:54:26,934    INFO    tornado.access    200 GET /search (10.255.41.40) 6.65ms
+2016-07-15 15:56:17,530    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:56:17,530    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:56:17,530    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:56:17,530    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:56:17,530    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:56:17,530    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:56:21,020    INFO    tornado.access    200 GET /search (10.255.41.40) 6.46ms
+2016-07-15 15:56:21,942    INFO    tornado.access    304 GET /search (10.255.41.40) 1.38ms
+2016-07-15 15:56:22,640    INFO    tornado.access    304 GET /search (10.255.41.40) 0.75ms
+2016-07-15 15:56:23,457    INFO    tornado.access    304 GET /search (10.255.41.40) 0.66ms
+2016-07-15 15:56:23,943    INFO    tornado.access    304 GET /search (10.255.41.40) 0.62ms
+2016-07-15 15:56:24,394    INFO    tornado.access    304 GET /search (10.255.41.40) 1.07ms
+2016-07-15 15:56:24,969    INFO    tornado.access    304 GET /search (10.255.41.40) 0.65ms
+2016-07-15 15:56:25,580    INFO    tornado.access    304 GET /search (10.255.41.40) 0.90ms
+2016-07-15 15:56:26,048    INFO    tornado.access    304 GET /search (10.255.41.40) 0.67ms
+2016-07-15 15:58:26,334    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:58:26,334    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:58:26,334    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:58:26,335    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:58:26,335    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:58:26,335    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:58:33,053    INFO    tornado.access    200 GET /search (10.255.41.40) 6.70ms
+2016-07-15 15:59:47,328    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 15:59:47,328    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 15:59:47,328    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 15:59:47,328    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 15:59:47,328    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 15:59:47,328    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 15:59:50,555    INFO    tornado.access    200 GET /search (10.255.41.40) 6.71ms
+2016-07-15 16:00:37,105    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:00:37,105    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:00:37,105    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:00:37,105    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:00:37,106    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:00:37,106    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:00:40,453    INFO    tornado.access    200 GET /search (10.255.41.40) 10.40ms
+2016-07-15 16:01:05,626    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:01:05,626    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:01:05,626    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:01:05,626    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:01:05,626    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:01:05,626    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:01:09,351    INFO    tornado.access    200 GET /search (10.255.41.40) 8.08ms
+2016-07-15 16:03:44,263    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:03:44,263    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:03:44,263    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:03:44,263    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:03:44,263    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:03:44,263    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:03:47,557    INFO    tornado.access    200 GET /search (10.255.41.40) 7.50ms
+2016-07-15 16:04:02,053    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:04:02,053    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:04:02,053    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:04:02,053    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:04:02,054    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:04:02,054    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:04:06,122    INFO    tornado.access    200 GET /search (10.255.41.40) 6.98ms
+2016-07-15 16:06:02,559    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:06:02,559    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:06:02,559    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:06:02,559    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:06:02,559    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:06:02,559    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:06:06,831    INFO    tornado.access    200 GET /search (10.255.41.40) 6.14ms
+2016-07-15 16:06:32,410    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:06:32,410    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:06:32,413    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:06:32,414    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:06:32,414    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:06:32,414    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:06:34,996    INFO    tornado.access    200 GET /search (10.255.41.40) 6.41ms
+2016-07-15 16:06:45,715    INFO    tornado.access    200 POST /result (10.255.41.40) 4.88ms
+2016-07-15 16:08:16,080    INFO    tornado.access    304 GET /search (10.255.41.40) 0.80ms
+2016-07-15 16:09:25,906    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:09:25,906    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:09:25,906    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:09:25,906    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:09:25,906    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:09:25,906    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:09:28,738    INFO    tornado.access    200 GET /search (10.255.41.40) 5.52ms
+2016-07-15 16:09:29,818    INFO    tornado.access    304 GET /search (10.255.41.40) 0.79ms
+2016-07-15 16:10:28,545    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:10:28,545    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:10:28,545    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:10:28,545    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:10:28,545    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:10:28,545    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:10:33,663    INFO    tornado.access    200 GET /search (10.255.41.40) 5.59ms
+2016-07-15 16:10:52,175    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:10:52,175    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:10:52,176    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:10:52,176    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:10:52,176    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:10:52,176    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:10:55,837    INFO    tornado.access    200 GET /search (10.255.41.40) 5.99ms
+2016-07-15 16:11:24,796    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:11:24,796    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:11:24,796    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:11:24,796    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:11:24,796    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:11:24,796    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:11:27,976    INFO    tornado.access    200 GET /search (10.255.41.40) 6.12ms
+2016-07-15 16:11:35,909    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:11:35,909    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:11:35,909    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:11:35,909    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:11:35,909    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:11:35,909    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:11:38,522    INFO    tornado.access    200 GET /search (10.255.41.40) 6.87ms
+2016-07-15 16:11:51,327    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:11:51,327    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:11:51,327    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:11:51,327    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:11:51,327    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:11:51,327    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:11:54,158    INFO    tornado.access    200 GET /search (10.255.41.40) 6.22ms
+2016-07-15 16:12:01,497    INFO    tornado.access    200 POST /result (10.255.41.40) 1.56ms
+2016-07-15 16:12:08,058    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:12:08,058    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:12:08,058    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:12:08,058    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:12:08,058    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:12:08,058    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:12:57,249    INFO    tornado.access    200 POST /result (10.255.41.40) 4.60ms
+2016-07-15 16:13:02,359    INFO    tornado.access    200 POST /result (10.255.41.40) 1.30ms
+2016-07-15 16:13:13,592    INFO    tornado.access    200 POST /result (10.255.41.40) 1.11ms
+2016-07-15 16:15:01,766    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:01,771    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.31ms
+2016-07-15 16:15:02,565    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:02,566    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.43ms
+2016-07-15 16:15:03,662    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:03,662    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.36ms
+2016-07-15 16:15:04,646    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:04,647    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.52ms
+2016-07-15 16:15:12,664    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:12,665    INFO    tornado.access    304 GET /traversal (10.255.41.40) 2.45ms
+2016-07-15 16:15:13,446    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-15 16:15:13,447    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.37ms
+2016-07-15 16:15:16,551    INFO    STDOUT    []
+2016-07-15 16:15:16,552    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.21ms
+2016-07-15 16:15:17,431    INFO    STDOUT    []
+2016-07-15 16:15:17,432    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.17ms
+2016-07-15 16:15:26,627    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:15:26,627    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:15:26,627    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:15:26,627    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:15:26,627    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:15:26,627    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:16:36,624    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:16:36,624    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:16:36,624    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:16:36,624    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:16:36,624    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:16:36,624    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:17:26,906    INFO    STDOUT    [(u'127.0.1.2', u'20s'), (u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s')]
+2016-07-15 16:17:26,911    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.94ms
+2016-07-15 16:17:37,007    INFO    tornado.access    304 GET /search (10.255.41.40) 6.78ms
+2016-07-15 16:17:46,571    INFO    tornado.access    200 POST /result (10.255.41.40) 2.09ms
+2016-07-15 16:18:05,167    INFO    tornado.access    200 POST /action (10.255.41.40) 5.59ms
+2016-07-15 16:18:18,080    INFO    tornado.access    200 POST /action (10.255.41.40) 5.31ms
+2016-07-15 16:18:26,394    INFO    tornado.access    200 POST /result (10.255.41.40) 5.85ms
+2016-07-15 16:19:42,924    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 16:19:42,924    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 16:19:42,924    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 16:19:42,924    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 16:19:42,924    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 16:19:42,924    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 16:20:37,984    INFO    tornado.access    200 POST /action (10.255.41.40) 15.72ms
+2016-07-15 16:21:00,024    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:00,029    INFO    tornado.access    200 GET /traversal (10.255.41.40) 5.74ms
+2016-07-15 16:21:01,223    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:01,224    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.63ms
+2016-07-15 16:21:02,013    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:02,014    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.51ms
+2016-07-15 16:21:02,745    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'1.1.1.1', u'1M'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:02,746    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.48ms
+2016-07-15 16:21:03,762    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:03,763    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.89ms
+2016-07-15 16:21:04,886    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:04,887    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.47ms
+2016-07-15 16:21:05,869    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:05,870    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.48ms
+2016-07-15 16:21:12,744    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:12,745    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.48ms
+2016-07-15 16:21:16,015    INFO    STDOUT    [(u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'190.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'122.23.54.54', u'100d')]
+2016-07-15 16:21:16,016    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.52ms
+2016-07-15 17:16:03,930    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:16:03,930    ERROR    STDERR      File "./web_server.py", line 130, in <module>
+2016-07-15 17:16:03,930    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:16:03,930    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:16:03,931    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:16:03,931    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:16:57,058    WARNING    tornado.access    405 POST /search (127.0.0.1) 0.45ms
+2016-07-15 17:17:02,458    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:17:02,458    ERROR    STDERR      File "web_server.py", line 130, in <module>
+2016-07-15 17:17:02,458    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:17:02,459    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:17:02,459    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:17:02,459    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:17:41,449    WARNING    tornado.access    405 POST /search (127.0.0.1) 0.80ms
+2016-07-15 17:18:24,053    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:18:24,053    ERROR    STDERR      File "web_server.py", line 130, in <module>
+2016-07-15 17:18:24,054    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:18:24,054    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:18:24,054    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:18:24,055    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:19:26,898    WARNING    tornado.access    405 POST /search (127.0.0.1) 0.44ms
+2016-07-15 17:19:43,635    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:19:43,635    ERROR    STDERR      File "web_server.py", line 130, in <module>
+2016-07-15 17:19:43,635    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:19:43,636    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:19:43,636    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:19:43,637    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:24:37,623    WARNING    tornado.access    405 POST /search (127.0.0.1) 0.44ms
+2016-07-15 17:24:47,139    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:24:47,139    ERROR    STDERR      File "web_server.py", line 134, in <module>
+2016-07-15 17:24:47,139    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:24:47,140    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:24:47,141    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:24:47,142    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:25:53,208    WARNING    tornado.access    405 POST /search (127.0.0.1) 0.44ms
+2016-07-15 17:25:57,318    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:25:57,319    ERROR    STDERR      File "web_server.py", line 134, in <module>
+2016-07-15 17:25:57,319    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:25:57,319    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:25:57,321    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:25:57,321    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:27:05,011    INFO    STDOUT    [(u'122.23.54.54', u'100d')]
+2016-07-15 17:27:05,012    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.59ms
+2016-07-15 17:27:05,127    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 0.87ms
+2016-07-15 17:27:05,128    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 0.47ms
+2016-07-15 17:27:17,031    ERROR    STDERR    Traceback (most recent call last):
+2016-07-15 17:27:17,031    ERROR    STDERR      File "web_server.py", line 130, in <module>
+2016-07-15 17:27:17,032    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-15 17:27:17,033    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-15 17:27:17,033    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-15 17:27:17,034    ERROR    STDERR    KeyboardInterrupt
+2016-07-15 17:49:42,106    INFO    tornado.access    304 GET / (10.255.41.40) 16.44ms
+2016-07-15 17:49:42,233    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 0.81ms
+2016-07-15 17:49:42,238    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 3.88ms
+2016-07-15 17:49:50,819    INFO    STDOUT    []
+2016-07-15 17:49:50,820    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.71ms
+2016-07-15 17:50:14,546    INFO    tornado.access    200 POST /action (10.255.41.40) 85.20ms
+2016-07-15 17:50:26,628    INFO    tornado.access    304 GET /search (10.255.41.40) 26.91ms
+2016-07-15 17:50:28,077    INFO    tornado.access    200 POST /result (10.255.41.40) 19.98ms
+2016-07-15 17:50:33,959    INFO    STDOUT    [(u'10.255.3.10/24', u'50s')]
+2016-07-15 17:50:33,960    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.39ms
+2016-07-15 17:50:37,232    INFO    STDOUT    [(u'10.255.3.10/24', u'50s')]
+2016-07-15 17:50:37,233    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-15 17:50:38,352    INFO    STDOUT    [(u'10.255.3.10/24', u'50s')]
+2016-07-15 17:50:38,353    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.25ms
+2016-07-15 17:51:34,285    INFO    STDOUT    []
+2016-07-15 17:51:34,286    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.42ms
+2016-07-15 17:51:35,157    INFO    STDOUT    []
+2016-07-15 17:51:35,159    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.64ms
+2016-07-15 17:51:40,397    INFO    STDOUT    []
+2016-07-15 17:51:40,398    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.70ms
+2016-07-15 17:51:42,257    INFO    STDOUT    []
+2016-07-15 17:51:42,258    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.30ms
+2016-07-15 17:52:26,366    INFO    tornado.access    200 POST /action (10.255.41.40) 4.04ms
+2016-07-15 17:52:32,462    INFO    STDOUT    [(u'10.255.4.0/24', u'20s')]
+2016-07-15 17:52:32,463    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.35ms
+2016-07-15 17:56:05,211    INFO    STDOUT    []
+2016-07-15 17:56:05,213    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.76ms
+2016-07-15 17:59:43,337    INFO    STDOUT    []
+2016-07-15 17:59:43,341    INFO    tornado.access    304 GET /traversal (10.255.41.40) 5.41ms
+2016-07-15 18:48:02,532    INFO    tornado.access    200 POST /action (10.255.41.40) 7.62ms
+2016-07-15 18:48:06,791    INFO    STDOUT    [(u'10.255.4.0/24', u'20s')]
+2016-07-15 18:48:06,792    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.75ms
+2016-07-15 21:17:55,925    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 1.37ms
+2016-07-15 21:17:55,930    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 0.48ms
+2016-07-16 09:46:41,308    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'172.168.1.123', u'1m'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'1.1.1.1', u'1M'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s')]
+2016-07-16 09:46:41,319    INFO    tornado.access    200 GET /traversal (10.255.41.40) 20.68ms
+2016-07-16 09:46:41,577    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 0.85ms
+2016-07-16 09:46:41,583    WARNING    tornado.access    404 GET /favicon.ico (10.255.41.40) 5.90ms
+2016-07-16 09:47:27,535    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s')]
+2016-07-16 09:47:27,540    INFO    tornado.access    200 GET /traversal (10.255.41.40) 6.39ms
+2016-07-16 09:48:08,881    INFO    STDOUT    [(u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s')]
+2016-07-16 09:48:08,883    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.01ms
+2016-07-16 09:49:01,922    INFO    STDOUT    []
+2016-07-16 09:49:01,923    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.22ms
+2016-07-16 09:49:19,338    INFO    tornado.access    304 GET / (10.255.41.40) 35.22ms
+2016-07-16 09:49:22,703    INFO    STDOUT    []
+2016-07-16 09:49:22,703    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.48ms
+2016-07-16 09:49:23,043    INFO    STDOUT    []
+2016-07-16 09:49:23,044    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.32ms
+2016-07-16 09:49:44,231    INFO    STDOUT    []
+2016-07-16 09:49:44,231    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.16ms
+2016-07-16 09:49:59,489    INFO    tornado.access    304 GET /search (10.255.41.40) 21.80ms
+2016-07-16 09:51:06,373    INFO    STDOUT    []
+2016-07-16 09:51:06,374    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.19ms
+2016-07-16 10:38:27,814    INFO    tornado.access    200 POST /action (10.255.41.40) 174.17ms
+2016-07-16 10:38:30,265    INFO    STDOUT    [(u'1.1.1.1', u'10s')]
+2016-07-16 10:38:30,266    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.18ms
+2016-07-16 10:38:44,323    INFO    STDOUT    [(u'127.0.1.2', u'20s'), (u'102.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'192.168.1.123', u'15s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'1.1.1.1', u'1M'), (u'172.168.1.123', u'1m')]
+2016-07-16 10:38:44,324    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.65ms
+2016-07-16 10:39:31,110    INFO    STDOUT    [(u'102.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'1.1.1.1', u'1M'), (u'172.168.1.123', u'1m')]
+2016-07-16 10:39:31,112    INFO    tornado.access    200 GET /traversal (10.255.41.40) 2.21ms
+2016-07-16 10:40:23,330    INFO    STDOUT    [(u'102.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s')]
+2016-07-16 10:40:23,331    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.54ms
+2016-07-16 10:40:58,356    INFO    STDOUT    [(u'102.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'190.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'112.16.11.4', u'150s'), (u'152.13.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s')]
+2016-07-16 10:40:58,357    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.25ms
+2016-07-16 10:41:21,622    INFO    tornado.access    200 POST /result (10.255.41.40) 0.90ms
+2016-07-16 10:41:30,397    INFO    STDOUT    [(u'127.0.1.2', u'20s'), (u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'172.6.1.3', u'6s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s')]
+2016-07-16 10:41:30,398    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.38ms
+2016-07-16 10:41:42,675    INFO    tornado.access    200 POST /result (10.255.41.40) 9.65ms
+2016-07-16 10:41:50,459    INFO    STDOUT    [(u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'1.1.1.1', u'1M'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'172.168.1.123', u'1m')]
+2016-07-16 10:41:50,460    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.45ms
+2016-07-16 10:41:51,108    INFO    STDOUT    [(u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'1.1.1.1', u'1M'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'172.168.1.123', u'1m')]
+2016-07-16 10:41:51,109    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.16ms
+2016-07-16 10:41:51,539    INFO    STDOUT    [(u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'1.1.1.1', u'1M'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s'), (u'172.168.1.123', u'1m')]
+2016-07-16 10:41:51,540    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.23ms
+2016-07-16 10:42:41,316    INFO    STDOUT    [(u'190.16.13.4', u'150s'), (u'192.16.13.4', u'150s'), (u'102.16.13.4', u'150s'), (u'10.3.5.6', u'100s'), (u'192.16.13.4', u'150s'), (u'147.16.13.4', u'150s'), (u'126.16.13.4', u'150s'), (u'132.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'125.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'123.16.13.4', u'150s'), (u'182.16.13.4', u'150s'), (u'142.12.13.4', u'150s'), (u'112.16.13.4', u'150s'), (u'162.13.13.4', u'150s'), (u'172.16.13.4', u'150s'), (u'122.16.13.4', u'150s'), (u'152.13.13.4', u'150s'), (u'132.11.13.4', u'150s'), (u'122.16.12.4', u'150s'), (u'112.16.11.4', u'150s')]
+2016-07-16 10:42:41,317    INFO    tornado.access    200 GET /traversal (10.255.41.40) 1.31ms
+2016-07-16 11:16:24,802    WARNING    tornado.access    404 GET /1.htm (10.255.41.40) 0.84ms
+2016-07-16 11:16:28,121    WARNING    tornado.access    404 GET /1.html (10.255.41.40) 0.69ms
+2016-07-16 11:17:22,135    WARNING    tornado.access    404 GET /1.html (10.255.41.40) 1.21ms
+2016-07-16 11:17:26,423    INFO    tornado.access    200 GET /traversal (10.255.41.40) 7.51ms
+2016-07-16 11:41:21,852    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.10ms
+2016-07-16 11:41:23,450    INFO    tornado.access    304 GET /traversal (10.255.41.40) 0.98ms
+2016-07-16 11:41:26,724    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.05ms
+2016-07-16 11:41:45,253    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.00ms
+2016-07-16 11:42:02,427    INFO    tornado.access    304 GET /traversal (10.255.41.40) 0.93ms
+2016-07-16 11:42:04,364    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.01ms
+2016-07-16 11:42:20,287    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'If-None-Match': '"248bff2cffbdbf1d68661a28f88f87ae50120f1a"', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/ban/web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "/opt/ban/web_server.py", line 102, in sleep
+    self.render('1.html', address_ip=data)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 704, in render
+    html = self.render_string(template_name, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 811, in render_string
+    return t.generate(**namespace)
+  File "/usr/local/lib/python2.7/site-packages/tornado/template.py", line 278, in generate
+    return execute()
+  File "1_html.generated.py", line 11, in _tt_execute
+    _tt_tmp = b  # 1.html:13
+NameError: global name 'b' is not defined
+2016-07-16 11:42:20,288    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 38.48ms
+2016-07-16 11:43:42,705    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/ban/web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "/opt/ban/web_server.py", line 102, in sleep
+    self.render('1.html', address_ip=data)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 704, in render
+    html = self.render_string(template_name, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 811, in render_string
+    return t.generate(**namespace)
+  File "/usr/local/lib/python2.7/site-packages/tornado/template.py", line 278, in generate
+    return execute()
+  File "1_html.generated.py", line 5, in _tt_execute
+    _tt_tmp = b  # 1.html:10
+NameError: global name 'b' is not defined
+2016-07-16 11:43:42,715    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 17.53ms
+2016-07-16 11:43:43,812    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/ban/web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "/opt/ban/web_server.py", line 102, in sleep
+    self.render('1.html', address_ip=data)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 704, in render
+    html = self.render_string(template_name, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 811, in render_string
+    return t.generate(**namespace)
+  File "/usr/local/lib/python2.7/site-packages/tornado/template.py", line 278, in generate
+    return execute()
+  File "1_html.generated.py", line 5, in _tt_execute
+    _tt_tmp = b  # 1.html:10
+NameError: global name 'b' is not defined
+2016-07-16 11:43:43,816    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 5.32ms
+2016-07-16 11:43:44,681    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/ban/web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "/opt/ban/web_server.py", line 102, in sleep
+    self.render('1.html', address_ip=data)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 704, in render
+    html = self.render_string(template_name, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 811, in render_string
+    return t.generate(**namespace)
+  File "/usr/local/lib/python2.7/site-packages/tornado/template.py", line 278, in generate
+    return execute()
+  File "1_html.generated.py", line 5, in _tt_execute
+    _tt_tmp = b  # 1.html:10
+NameError: global name 'b' is not defined
+2016-07-16 11:43:44,685    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 5.72ms
+2016-07-16 11:43:45,296    ERROR    tornado.application    Uncaught exception GET /traversal (10.255.41.40)
+HTTPServerRequest(protocol='http', host='10.255.41.252:8000', method='GET', uri='/traversal', version='HTTP/1.1', remote_ip='10.255.41.40', headers={'Connection': 'keep-alive', 'Accept-Language': 'zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3', 'Accept-Encoding': 'gzip, deflate', 'Host': '10.255.41.252:8000', 'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0'})
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1369, in _stack_context_handle_exception
+    raise_exc_info((type, value, traceback))
+  File "/usr/local/lib/python2.7/site-packages/tornado/stack_context.py", line 314, in wrapped
+    ret = fn(*args, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 1581, in future_complete
+    f.result()
+  File "/usr/local/lib/python2.7/site-packages/tornado/concurrent.py", line 215, in result
+    raise_exc_info(self._exc_info)
+  File "/usr/local/lib/python2.7/site-packages/tornado/gen.py", line 215, in wrapper
+    result = func(*args, **kwargs)
+  File "/opt/ban/web_server.py", line 98, in get
+    data.set_result(self.sleep())
+  File "/opt/ban/web_server.py", line 102, in sleep
+    self.render('1.html', address_ip=data)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 704, in render
+    html = self.render_string(template_name, **kwargs)
+  File "/usr/local/lib/python2.7/site-packages/tornado/web.py", line 811, in render_string
+    return t.generate(**namespace)
+  File "/usr/local/lib/python2.7/site-packages/tornado/template.py", line 278, in generate
+    return execute()
+  File "1_html.generated.py", line 5, in _tt_execute
+    _tt_tmp = b  # 1.html:10
+NameError: global name 'b' is not defined
+2016-07-16 11:43:45,300    ERROR    tornado.access    500 GET /traversal (10.255.41.40) 5.38ms
+2016-07-16 11:44:25,190    INFO    tornado.access    200 GET /traversal (10.255.41.40) 9.72ms
+2016-07-16 11:46:37,799    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.05ms
+2016-07-16 11:46:38,581    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.09ms
+2016-07-16 11:46:39,982    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.05ms
+2016-07-16 11:46:50,836    INFO    tornado.access    200 GET /traversal (10.255.41.40) 10.26ms
+2016-07-16 11:46:51,729    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.41ms
+2016-07-16 11:46:52,529    INFO    tornado.access    304 GET /traversal (10.255.41.40) 1.20ms
+2016-07-16 13:37:06,267    ERROR    STDERR    Traceback (most recent call last):
+2016-07-16 13:37:06,268    ERROR    STDERR      File "web_server.py", line 118, in <module>
+2016-07-16 13:37:06,268    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-16 13:37:06,268    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-16 13:37:06,296    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-16 13:37:06,297    ERROR    STDERR    KeyboardInterrupt
+2016-07-16 13:37:46,418    INFO    STDOUT    []
+2016-07-16 13:37:46,425    INFO    STDOUT    <!DOCTYPE html>
+2016-07-16 13:37:46,426    INFO    STDOUT    <html>
+2016-07-16 13:37:46,426    INFO    STDOUT    <head lang="en">
+2016-07-16 13:37:46,426    INFO    STDOUT    <meta charset="UTF-8">
+2016-07-16 13:37:46,426    INFO    STDOUT    <title></title>
+2016-07-16 13:37:46,427    INFO    STDOUT    </head>
+2016-07-16 13:37:46,427    INFO    STDOUT    <body>
+2016-07-16 13:37:46,427    INFO    STDOUT    abc
+2016-07-16 13:37:46,427    INFO    STDOUT    </body>
+2016-07-16 13:37:46,427    INFO    STDOUT    </html>
+2016-07-16 13:37:46,432    INFO    tornado.access    200 GET /traversal (::1) 15.70ms
+2016-07-16 13:38:07,039    ERROR    STDERR    Traceback (most recent call last):
+2016-07-16 13:38:07,039    ERROR    STDERR      File "web_server.py", line 118, in <module>
+2016-07-16 13:38:07,040    ERROR    STDERR    tornado.ioloop.IOLoop.instance().start()
+2016-07-16 13:38:07,040    ERROR    STDERR      File "/usr/local/lib/python2.7/site-packages/tornado/ioloop.py", line 841, in start
+2016-07-16 13:38:07,040    ERROR    STDERR    event_pairs = self._impl.poll(poll_timeout)
+2016-07-16 13:38:07,040    ERROR    STDERR    KeyboardInterrupt
